@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHDFS:HDFSConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHDFS="http://www.talend.org/hdfs" xmi:id="_9KkUQLzbEea_Qc0xnUmFfA" name="InnovLab_HDFS" label="InnovLab_HDFS" relativeHadoopClusterId="_NcU9QLy1EeaBEPkUwoJhLg" userName="hadoop" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>

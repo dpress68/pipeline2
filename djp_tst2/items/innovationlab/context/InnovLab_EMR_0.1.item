@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yoWOEL1cEeaN67on7XL2HA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_yoWOEb1cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_ResourceManager" prompt="InnovLab_EMR_ResourceManager?" promptNeeded="false" type="id_String" value="ec2-35-163-75-98.us-west-2.compute.amazonaws.com:8032"/>
+  <contextParameter xmi:id="_yoWOEr1cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_User" prompt="InnovLab_EMR_User?" promptNeeded="false" type="id_String" value="hadoop"/>
+  <contextParameter xmi:id="_yoWOE71cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_JobHistory" prompt="InnovLab_EMR_JobHistory?" promptNeeded="false" type="id_String" value="ec2-35-163-75-98.us-west-2.compute.amazonaws.com:10020"/>
+  <contextParameter xmi:id="_yoWOFL1cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_NameNodeUri" prompt="InnovLab_EMR_NameNodeUri?" promptNeeded="false" type="id_String" value="hdfs://ec2-35-163-75-98.us-west-2.compute.amazonaws.com"/>
+  <contextParameter xmi:id="_yoWOFb1cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_ResourceManagerScheduler" prompt="InnovLab_EMR_ResourceManagerScheduler?" promptNeeded="false" type="id_String" value="ec2-35-163-75-98.us-west-2.compute.amazonaws.com:8030"/>
+  <contextParameter xmi:id="_yoWOFr1cEeaN67on7XL2HA" comment="" name="InnovLab_EMR_StagingDirectory" prompt="InnovLab_EMR_StagingDirectory?" promptNeeded="false" type="id_String" value="/hadoop"/>
+</talendfile:ContextType>
